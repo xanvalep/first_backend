@@ -1,0 +1,22 @@
+{
+  "name": "firstbackend",
+  "version": "1.0.0",
+  "description": "mi primer backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xanvalep/first_backend.git"
+  },
+  "author": "apenav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xanvalep/first_backend/issues"
+  },
+  "homepage": "https://github.com/xanvalep/first_backend#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
